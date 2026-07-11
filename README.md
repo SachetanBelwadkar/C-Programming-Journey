@@ -11,4 +11,4 @@ Documenting my daily progress learning C programming and building practical proj
   3. Pass/Fail & Grade Analyzer
   4. **Student Grade Report System** (Integrated Mini-Project)
 
-Check out the [`Day-1-Basics`](./Day-1-Basics/) folder for all the source code!
+Check out the [`Day-01-Basics`](./Day-01-Basics/) folder for all the source code!
